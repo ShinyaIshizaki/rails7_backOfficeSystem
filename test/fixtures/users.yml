@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  firstname: MyString
+  middlename: MyString
+  lastname: MyString
+  inoffice: 2024-01-31
+  outoffice: 2024-01-31
+  remarks: MyString
+
+two:
+  id: 1
+  firstname: MyString
+  middlename: MyString
+  lastname: MyString
+  inoffice: 2024-01-31
+  outoffice: 2024-01-31
+  remarks: MyString
